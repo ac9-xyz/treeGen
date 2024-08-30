@@ -33,7 +33,7 @@ const Home = () => {
           />
         </div>
       ) : (
-        <p>Generating tree...</p>
+        <p>Generating a beautiful file tree...</p>
       )}
     </div>
   );
